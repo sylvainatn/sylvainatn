@@ -1,7 +1,7 @@
 
 # 💻 **Welcome to My GitHub Profile!**
 
-Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with experience in building modern web and mobile applications. 🚀
+Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with experience in building modern web applications. 🚀
 
 ---
 
@@ -15,28 +15,20 @@ Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with
 
 ## 🛠️ **Technologies & Tools**
 ### **Frontend:**
-- React, Vue.js, Angular
-- HTML, CSS, SASS/SCSS, Tailwind CSS
-- TypeScript, JavaScript (ES6+)
+- React
+- HTML, CSS, SASS/SCSS, Bootsrap, Tailwind CSS
+- TypeScript, JavaScript
 
 ### **Backend:**
 - Node.js, Express
-- Django, Flask
-- RESTful APIs, GraphQL
-- Database management: MongoDB, PostgreSQL, MySQL
+- RESTful API
+- Database: MongoDB, PostgreSQL, MySQL
 
-### **Tools & DevOps:**
-- Git, GitHub, GitLab
-- Docker, Kubernetes
-- CI/CD: GitHub Actions, Jenkins
-- Cloud: AWS, Azure, Firebase
-
----
-
-## 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
+### **Tools:**
+- IDE: Visual Studio Code
+- Git, GitHub
+- Docker
+- Figma, Canva
 
 ## 🔗 **Let's Connect**
 - 🌐 **Portfolio**: [Your Portfolio URL]
