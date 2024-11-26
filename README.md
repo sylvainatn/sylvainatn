@@ -32,6 +32,6 @@ Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with
 
 ## 🔗 **Let's Connect**
 - 🌐 **Portfolio**: https://sylvainatn.github.io/portfolio/
-- 💼 **LinkedIn**: [Your LinkedIn URL]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/sylvain-anton-85011726a/
 
 ---
