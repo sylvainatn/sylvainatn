@@ -31,9 +31,7 @@ Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with
 - Figma, Canva
 
 ## 🔗 **Let's Connect**
-- 🌐 **Portfolio**: [Your Portfolio URL]
+- 🌐 **Portfolio**: https://sylvainatn.github.io/portfolio/
 - 💼 **LinkedIn**: [Your LinkedIn URL]
-- 🐦 **Twitter**: [Your Twitter URL]
-- 📫 **Email**: [Your Email Address]
 
 ---
