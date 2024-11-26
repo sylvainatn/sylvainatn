@@ -22,6 +22,7 @@ Hi there! 👋 I'm **Sylvain ANTON**, a **passionate Full-Stack Developer** with
 ### **Backend:**
 - Node.js, Express
 - RESTful API
+- PHP, SQL
 - Database: MongoDB, PostgreSQL, MySQL
 
 ### **Tools:**
